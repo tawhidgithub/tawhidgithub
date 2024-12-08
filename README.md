@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tawhid Islam</h1>
-<div>    </div>
+
 <h3 align="center">I am a Android developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tawhidgithub&label=Profile%20views&color=0e75b6&style=flat" alt="tawhidgithub" /> </p>
